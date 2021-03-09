@@ -36,7 +36,7 @@
     Alle wichtigen Informationen zu dem Security-Plugin
     <br />
     <br />
-    <a href="https://git.dasmaexle.de/DasMaexle/antilag/issues">Melde fehler</a>
+    <a href="https://git.dasmaexle.de/DasMaexle/antilag/issues">Fehler melden</a>
   </p>
 </p>
 
